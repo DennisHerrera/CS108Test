@@ -20,6 +20,6 @@ For hacking you can use the sugar-build tool. Sugar is made of several
 modules and it often depends on libraries that have not yet been
 packaged in GNU/Linux distributions. To make it easier for developers to
 build from sources, we developed a set of scripts that automates builds
-and other common development tasks. 
+and other common development tasks.    
 
 For details see: https://developer.sugarlabs.org/dev-environment.md.html
